@@ -15,7 +15,7 @@ A simple and elegant profile card designed using HTML and CSS, perfect for showc
 ## Usage
 
 - Clone the repository:
- git clone https://github.com/yourusername/profilecard.git
+ git clone https://github.com/furkanparlatan/profilecard.git
 
 - Navigate to the project directory:
 cd profilecard
